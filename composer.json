@@ -1,0 +1,14 @@
+{
+    "name": "laravel/laravel",
+    "description": "laravel test",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JiaMing Zhen",
+            "email": "zhenjiaming@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
